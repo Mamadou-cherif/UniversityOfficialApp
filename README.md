@@ -1,0 +1,1 @@
+This is an educationnal angular app designed with angular 11.
